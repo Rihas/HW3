@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 int x,y,z;
+  float n,m,p;
   return 0;
 }
 
