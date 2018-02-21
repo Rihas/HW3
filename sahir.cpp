@@ -7,6 +7,7 @@ int x,y,z;
   float n,m,p;
    n=float(x);
    m=float(y);
+   p=float(z);
   return 0;
 }
 
